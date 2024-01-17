@@ -9,13 +9,14 @@ One could best identify me as `(Lead) Product Developer` with a background in `D
   🎨 <b>Frontend framework:</b> Svelte<br/>
   🌱 <b>Currently learning:</b> Leadership & Management<br/><br/>
   👀 <b>I look up to:</b> Simon Sinek, Christian Horner, Matthias Noback, and many more.<br/>
-  🔭 <b>Currently working on:</b> <a href="https://onlineadministratie.be">Aident</a> (online business administration) as Lead Developer<br/>
+  🔭 <b>Currently working on:</b> Building a platform for managing EV Chargepoints and Chargecards at <a href="https://energyvision.be">EnergyVision</a> as Lead Developer<br/>
   🗄️ <b>Previously worked on:</b>
 </p>
 <ul>
-  <li>🎟️ <a href="https://ticketswap.com">Ticketswap</a> (2nd hand concert tickets)</li>
-  <li>🏠 <a href="https://huurwononingen.nl">Huurwoningen.nl</a> (rental housing)</li>
-  <li>💈 <a href="https://optios.net">Optios</a> (salon software)</li>
+  <li>🎟️ <a href="https://ticketswap.com">Ticketswap</a> as junior developer</li>
+  <li>🏠 <a href="https://huurwononingen.nl">Huurwoningen.nl</a> as medior developer</li>
+  <li>💈 <a href="https://optios.net">Optios</a> as senior developer</li>
+  <li>📒 <a href="https://onlineadministratie.be">Aident</a> (online business administration) as lead developer</li>
 </ul>
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christianvermeulen&theme=default"/></p>
